@@ -25,26 +25,26 @@ peças e acessórios.
 
 ### Requisitos Funcionais e Regras de Negócio:
 
->RF001 -> O sistema deve manter Clientes;
->RF002 -> O sistema deve manter Orçamentos;
->RF003 -> O sistema deve manter Serviços;
->RF004 -> O sistema deve manter Peças;
->RF005 -> O sistema deve manter Entradas;
->RF006 -> O sistema deve manter Retiradas;
->RF007 -> O sistema deve mostrar status dos serviços;
->RF008 -> O sistema deve mostrar conversão de orçamento em serviços;
->RF009 -> O sistema deve mostrar peças utilizadas no conserto;
->RF010 -> O Sistema deve identificar os principais clientes;
->RF011 -> O sistema deve identificar principais serviços realizados;
->RF012 -> O sistema deve identificar margens de faturamento por serviço
->RF013 -> O sistema deve identificar tempo para realização de serviços;
->RF014 -> O sistema deve gerenciar o faturamento;
->RF015 -> O sistema deve gerenciar as entradas de recursos da empresa;
->RF016 -> O sistema deve gerenciar as saidas de recursos da empresa;
+1. RF001 -> O sistema deve manter Clientes;
+2. RF002 -> O sistema deve manter Orçamentos;
+3. RF003 -> O sistema deve manter Serviços;
+4. RF004 -> O sistema deve manter Peças;
+5. RF005 -> O sistema deve manter Entradas;
+6. RF006 -> O sistema deve manter Retiradas;
+7. RF007 -> O sistema deve mostrar status dos serviços;
+8. RF008 -> O sistema deve mostrar conversão de orçamento em serviços;
+9. RF009 -> O sistema deve mostrar peças utilizadas no conserto;
+10. RF010 -> O Sistema deve identificar os principais clientes;
+11. RF011 -> O sistema deve identificar principais serviços realizados;
+12. RF012 -> O sistema deve identificar margens de faturamento por serviço
+13. RF013 -> O sistema deve identificar tempo para realização de serviços;
+14. RF014 -> O sistema deve gerenciar o faturamento;
+15. RF015 -> O sistema deve gerenciar as entradas de recursos da empresa;
+16. RF016 -> O sistema deve gerenciar as saidas de recursos da empresa;
 
 ## Requisitos Não Funcionais:
 
->RNF001 -> O sistema deve ser responsivo;
->RNF002 -> O sistema deve ter um backend feito em Node.js
->RNF003 -> O sistema deve ter um frontend em Vue.js
->RNF005 -> O sistema deve utilizar o Postgres como database;
+1. RNF001 -> O sistema deve ser responsivo;
+2. RNF002 -> O sistema deve ter um backend feito em Node.js
+3. RNF003 -> O sistema deve ter um frontend em Vue.js
+4. RNF005 -> O sistema deve utilizar o Postgres como database;
