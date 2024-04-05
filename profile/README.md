@@ -49,4 +49,4 @@ peças e acessórios.
 3. RNF003 -> O sistema deve ter um frontend em Vue.js
 4. RNF005 -> O sistema deve utilizar o Postgres como database;
 
-<img src="modelagem_versao1.png" alt="modelagem 1">
+<img src="./modelagem_versao1.png" alt="modelagem 1">
