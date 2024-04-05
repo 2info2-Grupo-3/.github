@@ -52,5 +52,5 @@ peças e acessórios.
 ## Modelagem do Banco de Dados
 
 <div align="center">
-<img src="modelagem_versao1" alt="modelagem 1" width="50%">
+<img src="profile/modelagem_versao1" alt="modelagem 1" width="50%">
 </div>
