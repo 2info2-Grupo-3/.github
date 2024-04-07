@@ -63,5 +63,5 @@ peças e acessórios.
 -Tabela Clientes:
 
 <div align="center">
-<img src="profile/descricao_clientes" alt="descricao clientes" width="50%">
+<img src="profile/descricao_clientes.png" alt="descricao clientes" width="50%">
 </div>
