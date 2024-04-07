@@ -65,3 +65,10 @@ peças e acessórios.
 <div align="center">
 <img src="profile/descricao_clientes.png" alt="descricao clientes" width="100%">
 </div>
+
+-Tabela Peças:
+
+<div align="center">
+<img src="profile/descricao_tbpecas.png" alt="descricao peças" width="100%">
+</div>
+
