@@ -61,6 +61,7 @@ peças e acessórios.
 ## Descrição das Tabelas no Neon Postgree: 
 
 -Tabela Clientes:
+
 <div align="center">
-<img src="profile/descricao_clientes" alt="modelagem 1" width="50%">
+<img src="profile/descricao_clientes" alt="descricao clientes" width="50%">
 </div>
