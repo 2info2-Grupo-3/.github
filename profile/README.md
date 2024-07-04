@@ -51,24 +51,3 @@ peças e acessórios.
 
 ## Modelagem do Banco de Dados
 
-<div align="center">
-<img src="profile/modelagem_versao1" alt="modelagem 1" width="50%">
-</div>
-
-## Link do Database Neon Postgree:
-- Link [https://console.neon.tech/app/projects/summer-tooth-60549787]
-
-## Descrição das Tabelas no Neon Postgree: 
-
--Tabela Clientes:
-
-<div align="center">
-<img src="profile/descricao_clientes.png" alt="descricao clientes" width="100%">
-</div>
-
--Tabela Peças:
-
-<div align="center">
-<img src="profile/descricao_tbpecas.png" alt="descricao peças" width="100%">
-</div>
-
