@@ -78,6 +78,11 @@ peças e acessórios.
 <hr>
 
 * RF016 -> O sistema deve gerenciar as saidas de recursos da empresa;
+<hr>
+
+* RF017 -> O sistema deve criar relatórios;
+* RN008 -> Dados do relatório (status dos serviços, conversão de orçamento em serviços e
+estoque de peças utilizadas no conserto);
 
 ## Requisitos Não Funcionais:
 
